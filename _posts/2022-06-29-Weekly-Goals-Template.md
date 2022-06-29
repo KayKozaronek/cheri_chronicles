@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: This template helps me stay on accountable and make a conscious effort to prioritize goals throughout the week.
+categories: [markdown]
+title: Weekly Goal Tracking Template 
+---
+
 # Weekly Goal Tracking Template 
 
 This is a template to keep track of my weekly goals.
