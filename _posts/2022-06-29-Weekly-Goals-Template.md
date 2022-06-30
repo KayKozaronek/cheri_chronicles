@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: This template helps me stay on accountable and make a conscious effort to prioritize goals throughout the week.
+description: This template helps me stay accountable and make a conscious effort to prioritize goals throughout the week.
 categories: [markdown]
 image: images/to-do-list.png
 title: Weekly Goal Tracking Template 
@@ -18,14 +18,14 @@ Here's the progress of last weeks goals.
 
 | **What** | **Comment** | **Done**           | **Points** |
 |----------|-------------|--------------------|------------|
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
 |          |             | :construction:     |            |
 |          |             | :x:                |            |
 | Total Points                                |            |
@@ -42,16 +42,16 @@ Here's the progress of last weeks goals.
 
 | **What** | **Comment** | **Done**           | **Points** |
 |----------|-------------|--------------------|------------|
-|          |             | :white_check_mark: |            |
-|          |             | :heavy_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
+|          |             | :construction: |            |
 |          |             | :construction:     |            |
-|          |             | :x:                |            |
+|          |             | :construction:               |            |
 | Total Points                                |            |
 
 
