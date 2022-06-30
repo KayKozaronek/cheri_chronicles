@@ -3,6 +3,7 @@ toc: true
 layout: post
 description: This template helps me stay on accountable and make a conscious effort to prioritize goals throughout the week.
 categories: [markdown]
+image: images/to-do-list.png
 title: Weekly Goal Tracking Template 
 ---
 
