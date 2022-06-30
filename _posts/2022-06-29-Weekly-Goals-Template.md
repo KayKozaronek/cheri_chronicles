@@ -42,7 +42,7 @@ Here's the progress of last weeks goals.
 | **What** | **Comment** | **Done**           | **Points** |
 |----------|-------------|--------------------|------------|
 |          |             | :white_check_mark: |            |
-|          |             | :white_check_mark: |            |
+|          |             | :heavy_check_mark: |            |
 |          |             | :white_check_mark: |            |
 |          |             | :white_check_mark: |            |
 |          |             | :white_check_mark: |            |
