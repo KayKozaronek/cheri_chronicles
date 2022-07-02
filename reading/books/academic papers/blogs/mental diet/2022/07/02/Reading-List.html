@@ -164,126 +164,18 @@ window.onload = wrap_img;
 
 <div class="container" id="notebook-container">
         
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
+<div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span> 
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-    
-
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cols_to_include</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'Title'</span><span class="p">,</span> <span class="s1">'Category'</span><span class="p">,</span> <span class="s1">'Topic'</span><span class="p">,</span> <span class="s1">'Progress'</span><span class="p">]</span>
-<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">'data/readings.csv'</span><span class="p">,</span> <span class="n">usecols</span><span class="o">=</span><span class="n">cols_to_include</span><span class="p">,</span> <span class="n">sep</span><span class="o">=</span><span class="s1">';'</span><span class="p">)</span>
-<span class="n">df</span><span class="p">[</span><span class="s1">'Progress'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">'Progress'</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">float</span><span class="p">)</span>
-<span class="n">df</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">background_gradient</span><span class="p">(</span><span class="n">cmap</span><span class="o">=</span><span class="s1">'Greens'</span><span class="p">)</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<style type="text/css">
-#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row0_col3{
-            background-color:  #00441b;
-            color:  #f1f1f1;
-        }#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row1_col3,#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row5_col3{
-            background-color:  #f7fcf5;
-            color:  #000000;
-        }#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row2_col3,#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row4_col3{
-            background-color:  #b8e3b2;
-            color:  #000000;
-        }#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row3_col3,#T_290a16b4_fa0c_11ec_a939_5800e3b90b26row6_col3{
-            background-color:  #73c476;
-            color:  #000000;
-        }</style>
-<table id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26">
-<thead>    <tr>        <th class="blank level0"></th>        <th class="col_heading level0 col0">Title</th>        <th class="col_heading level0 col1">Category</th>        <th class="col_heading level0 col2">Topic</th>        <th class="col_heading level0 col3">Progress</th>    </tr>
-</thead>
-<tbody>
-                <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row0" class="row_heading level0 row0">0</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row0_col0" class="data row0 col0">Natural Language Processing with Transformers</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row0_col1" class="data row0 col1">Book</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row0_col2" class="data row0 col2">NLP</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row0_col3" class="data row0 col3">1.000000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row1" class="row_heading level0 row1">1</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row1_col0" class="data row1 col0">Mastering PyTorch</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row1_col1" class="data row1 col1">Book</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row1_col2" class="data row1 col2">Deep Learning</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row1_col3" class="data row1 col3">0.000000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row2" class="row_heading level0 row2">2</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row2_col0" class="data row2 col0">Self-critiquing models for assisting human evaluators</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row2_col1" class="data row2 col1">Academic Paper</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row2_col2" class="data row2 col2">NLP</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row2_col3" class="data row2 col3">0.300000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row3" class="row_heading level0 row3">3</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row3_col0" class="data row3 col0">Training Language Models with Language Feedback</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row3_col1" class="data row3 col1">Academic Paper</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row3_col2" class="data row3 col2">NLP</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row3_col3" class="data row3 col3">0.500000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row4" class="row_heading level0 row4">4</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row4_col0" class="data row4 col0">Learning to summarize from human feedback</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row4_col1" class="data row4 col1">Academic Paper</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row4_col2" class="data row4 col2">NLP</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row4_col3" class="data row4 col3">0.300000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row5" class="row_heading level0 row5">5</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row5_col0" class="data row5 col0">AGI Safety From First Principles</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row5_col1" class="data row5 col1">Blog</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row5_col2" class="data row5 col2">AI Safety</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row5_col3" class="data row5 col3">0.000000</td>
-            </tr>
-            <tr>
-                        <th id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26level0_row6" class="row_heading level0 row6">6</th>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row6_col0" class="data row6 col0">Propositions Concerning Digital Minds and Society</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row6_col1" class="data row6 col1">Academic Paper</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row6_col2" class="data row6 col2">Consciousness, Digital Minds</td>
-                        <td id="T_290a16b4_fa0c_11ec_a939_5800e3b90b26row6_col3" class="data row6 col3">0.500000</td>
-            </tr>
-    </tbody>
-</table>
-</div>
-
+<div class="text_cell_render border-box-sizing rendered_html">
+<p></p>
+<div class="flash flash-success">
+    <svg class="octicon octicon-checklist" viewbox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"></path></svg>
+    <strong>Tip: </strong>Feel free to suggest readings, in the comment section, that follow the main themes in this list.
 </div>
 
 </div>
 </div>
-
 </div>
-    
-
 </div>
 
 
