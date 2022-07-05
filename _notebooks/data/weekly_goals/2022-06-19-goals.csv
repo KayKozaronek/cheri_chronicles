@@ -1,0 +1,9 @@
+﻿Goal;Comment;Points;Progress
+Finish reading Transformer Book;;30;100
+"Read ""Self-critiquing models for assisting human evaluators""";;20;100
+"Read ""Learning to summarize from human feedback""";;10;100
+"Read ""Training Language Models with Language Feedback""";;20;100
+Explore Critique Dataset in Notebook;;10;0
+Code REINFORCE;;5;100
+Code: A2C;;5;100
+Total ;;;

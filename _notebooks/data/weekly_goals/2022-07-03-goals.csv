@@ -1,11 +1,6 @@
 ﻿Goal;Comment;Points;Progress
-"Reimplement ""Training Language Models with Language Feedback""";;25;20
-Finish Software Engineering practices for Data Scientists;;15;100
-Create blog ;;25;100
-Apply to Future Forum;;10;0
-Apply to Future Academy;;5;0
-Code Proximal Policy Optimization (PPO);;5;50
-Code Generalized Advantage Estimation (GAE);;5;100
-Creat Github repo for CHERI project;;5;0
-Do CHERI project planning;;5;100
+CHERI Introductory Week;;70;
+Catch up with Anki;;5;
+Read AGI Safety Fundamentals from first principles;;15;
+Write down expectations for mentorship;;10;
 Total ;;;
