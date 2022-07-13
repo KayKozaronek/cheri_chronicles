@@ -2,7 +2,10 @@
 Natural Language Processing with Transformers;Lewis Tunstall, Leandro von Werra, Thomas Wolf;Book;NLP;100;28.06.2022;;https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246
 Mastering PyTorch;Ashish Ranjan Jha;Book;Deep Learning;0;;;https://www.amazon.co.uk/Mastering-PyTorch-powerful-architectures-advanced/dp/1789614384
 Self-critiquing models for assisting human evaluators;OpenAI;Academic Paper;NLP;30;;https://kaykozaronek.github.io/blog/gpt-3/language%20models/ai%20safety/ai%20alignment/dataset/openai/2022/06/29/Exploring-OpenAI's-Critique-Dataset.html;https://arxiv.org/pdf/2206.05802.pdf
-Training Language Models with Language Feedback;Jérémy Scheurer;Academic Paper;NLP;50;;;https://arxiv.org/pdf/2204.14146.pdf
+Training Language Models with Language Feedback;Jérémy Scheurer;Academic Paper;NLP;100;01.07.2022;;https://arxiv.org/pdf/2204.14146.pdf
 Learning to summarize from human feedback;OpenAI;Academic Paper;NLP;30;;;https://arxiv.org/pdf/2009.01325.pdf
 AGI Safety From First Principles;Richard Ngo;Blog;AI Safety;0;;;https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ
-Propositions Concerning Digital Minds and Society;Nick Bostrom, Carl Shulman;Academic Paper;Consciousness, Digital Minds;50;;;https://nickbostrom.com/propositions.pdf
+Propositions Concerning Digital Minds and Society;Nick Bostrom, Carl Shulman;Academic Paper;Consciousness, Digital Minds;100;14.07.2022;;https://nickbostrom.com/propositions.pdf
+An Opinionated Guide to ML Research;John Schulman;Blog;Research Advice;100;13.07.2022;;http://joschu.net/blog/opinionated-guide-ml-research.html
+The Rationalist's guide to the galaxy;Tom Chivers;Book;X-risk;50;;;
+Ted Talks The Official TED Guide to Public Speaking;Chris Anderson;Book;Public Speeking;50;;;
