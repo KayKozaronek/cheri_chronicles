@@ -1,7 +1,10 @@
 ﻿Goal;Comment;Points;Progress
-Create Project Github Repository;;5;
-Analyze OpenAI dataset ;;15;
-Publish last weeks paper reimplementation;;10;
-Extend code to entire dataset;;20;
-Publish REINFORCE exercise;;15;
+Create Project Github Repository;;5;100
+Come up with project folder structure ;;10;100
+Use Weights and Biases in project;;10;30
+Analyze OpenAI dataset ;;15;100
+Publish last weeks paper reimplementation;;10;100
+Extend code to entire dataset;;20;50
+Publish REINFORCE exercise;;15;0
+"Read ""Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover"" ";https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to#_Racing_forward__assumption__Magma_tries_to_train_the_most_powerful_model_it_can;15;60
 Total ;;;
