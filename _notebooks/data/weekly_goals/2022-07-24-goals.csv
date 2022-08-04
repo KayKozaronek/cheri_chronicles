@@ -1,13 +1,13 @@
 ﻿Goal;Comment;Points;Progress
-Have 10 great conversations at EAG SF with new friends;;25;
-Read AGI Safety from first principles;;15;
-Get summary statistics on OpenAI dataset ;;15;
-Plan stay in San Francisco;;10;
-Finish Reading Ajeya Cotra's Blogpost;;5;
-Meet FAR team at EAG;;5;
-Setup Weights and Biases;;5;
-Use OpenAI playground to explore different prompting techniques (e.g. Zero-Shot CoT);;5;
-"Skim ""Language models are zero-shot reasoners"" paper";;5;
-"Skim ""Chain of thought reasoning"" paper";;5;
-Skim Minerva paper;;5;
+Have 10 great conversations at EAG SF with new friends;;25;100
+Read AGI Safety from first principles;;10;50
+Get summary statistics on OpenAI dataset ;;15;0
+Plan stay in San Francisco;;5;100
+Finish Reading Ajeya Cotra's Blogpost;;15;100
+Meet FAR team at EAG;;5;100
+Setup Weights and Biases;;5;0
+Use OpenAI playground to explore different prompting techniques (e.g. Zero-Shot CoT);;5;100
+"Skim ""Language models are zero-shot reasoners"" paper";;5;100
+"Skim ""Chain of thought reasoning"" paper";;5;100
+Skim Minerva paper;;5;100
 Total ;;;
