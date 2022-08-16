@@ -1,16 +1,15 @@
 ﻿Title;Authors;Category;Topic;Progress;Finish Date;Takeaways;Reading Link
 Natural Language Processing with Transformers;Lewis Tunstall, Leandro von Werra, Thomas Wolf;Book;NLP;100;28.06.2022;;https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246
-Mastering PyTorch;Ashish Ranjan Jha;Book;Deep Learning;0;;;https://www.amazon.co.uk/Mastering-PyTorch-powerful-architectures-advanced/dp/1789614384
 Self-critiquing models for assisting human evaluators;OpenAI;Academic Paper;NLP;70;;https://kaykozaronek.github.io/blog/gpt-3/language%20models/ai%20safety/ai%20alignment/dataset/openai/2022/06/29/Exploring-OpenAI's-Critique-Dataset.html;https://arxiv.org/pdf/2206.05802.pdf
 Training Language Models with Language Feedback;Jérémy Scheurer;Academic Paper;NLP;100;01.07.2022;;https://arxiv.org/pdf/2204.14146.pdf
 Learning to summarize from human feedback;OpenAI;Academic Paper;NLP;30;;;https://arxiv.org/pdf/2009.01325.pdf
-AGI Safety From First Principles;Richard Ngo;Blog;AI Safety;0;;;https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ
+AGI Safety From First Principles;Richard Ngo;Blog;AI Safety;20;;;https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ
 Propositions Concerning Digital Minds and Society;Nick Bostrom, Carl Shulman;Academic Paper;Consciousness, Digital Minds;100;14.07.2022;;https://nickbostrom.com/propositions.pdf
 An Opinionated Guide to ML Research;John Schulman;Blog;Research Advice;100;13.07.2022;;http://joschu.net/blog/opinionated-guide-ml-research.html
 The Rationalist's guide to the galaxy;Tom Chivers;Book;X-risk;50;;;
-Ted Talks The Official TED Guide to Public Speaking;Chris Anderson;Book;Public Speeking;80;;;
-Quantum Country;Michael Nielsen;Book;Quantum Computing;10;;;https://quantum.country/
-Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover;Ajeya Cotra;Blog;AI Safety;50;;;https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to#_Racing_forward__assumption__Magma_tries_to_train_the_most_powerful_model_it_can
+Ted Talks The Official TED Guide to Public Speaking;Chris Anderson;Book;Public Speeking;100;;;
+Quantum Country;Michael Nielsen;Book;Quantum Computing;20;;;https://quantum.country/
+Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover;Ajeya Cotra;Blog;AI Safety;100;;;https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to#_Racing_forward__assumption__Magma_tries_to_train_the_most_powerful_model_it_can
 The most important century series;Holden Karnofsky;Blog;AI Safety;10;;;https://www.cold-takes.com/most-important-century/
 Grokking Deep Reinforcement Learning;Miguel Morales;Book;Reinforcement Learning;15;;;https://www.amazon.de/GROKKING-DEEP-REINFORCEMENT-Miguel-Morales/dp/1617295450/ref=sr_1_1?keywords=grokking+deep+reinforcement+learning&qid=1658745332&sprefix=grokking+deep+%2Caps%2C475&sr=8-1
 Language Models Perform Reasoning via Chain of Thought;;Academic Paper;NLP;100;26.07.2022;;https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
